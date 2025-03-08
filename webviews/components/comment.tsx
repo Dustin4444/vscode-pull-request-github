@@ -154,7 +154,7 @@ function CommentBox({ for: comment, onFocus, onMouseEnter, onMouseLeave, childre
 	return (
 		<div className="comment-container comment review-comment" {...{ onFocus, onMouseEnter, onMouseLeave }}>
 			<div className="review-comment-container">
-				<h3 className={`review-comment-header${(isReviewEvent(comment) && comment.comments.length > 0) ? '' : ' no-details'}`}>
+				<h3 className="review-comment-header">
 					<Spaced>
 						<Avatar for={author} />
 						<AuthorLink for={author} />
