@@ -3814,7 +3814,7 @@
 	"dependencies": {
 		"@octokit/rest": "18.2.1",
 		"@octokit/types": "6.10.1",
-		"@vscode/extension-telemetry": "0.7.5",
+		"@vscode/extension-telemetry": "0.9.8",
 		"@vscode/prompt-tsx": "^0.3.0-alpha.12",
 		"apollo-boost": "^0.4.9",
 		"apollo-link-context": "1.0.20",
