@@ -3813,7 +3813,7 @@
 	},
 	"dependencies": {
 		"@octokit/rest": "18.2.1",
-		"@octokit/types": "6.10.1",
+		"@octokit/types": "14.0.0",
 		"@vscode/extension-telemetry": "0.7.5",
 		"@vscode/prompt-tsx": "^0.3.0-alpha.12",
 		"apollo-boost": "^0.4.9",
