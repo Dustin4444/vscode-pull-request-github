@@ -3812,7 +3812,7 @@
 		"webpack-cli": "4.2.0"
 	},
 	"dependencies": {
-		"@octokit/rest": "18.2.1",
+		"@octokit/rest": "22.0.0",
 		"@octokit/types": "6.10.1",
 		"@vscode/extension-telemetry": "0.7.5",
 		"@vscode/prompt-tsx": "^0.3.0-alpha.12",
